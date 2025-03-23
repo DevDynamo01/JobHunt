@@ -69,3 +69,14 @@ python scraper.py
 ## Data Collection and Scrapping Architecture
 ![image](https://github.com/user-attachments/assets/07ad5da9-08cc-4c6e-8c1a-9545013bc0d1)
 
+## Platform Screenshots
+![image](https://github.com/user-attachments/assets/00ec7253-bae1-43a0-8e1a-4e4b9dcaa0a3)
+![image](https://github.com/user-attachments/assets/62e0f491-2ff9-4965-ab52-b5c36f27c845)
+![image](https://github.com/user-attachments/assets/301ade8d-6130-47e9-bf14-20d918e77cf0)
+![image](https://github.com/user-attachments/assets/465854c2-1af2-429d-b8ee-f5bb7f399408)
+![image](https://github.com/user-attachments/assets/9cb582cd-783b-4540-bb65-1bcafe60277d)
+![image](https://github.com/user-attachments/assets/25cdfe37-00f0-4957-a8d3-92533fd74539)
+![image](https://github.com/user-attachments/assets/f69ef43b-8f30-468b-b756-001735f588ab)
+
+
+
