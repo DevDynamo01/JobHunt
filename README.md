@@ -15,7 +15,7 @@ This project scrapes job opening data from multiple platforms like **LinkedIn, U
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Web Scraping**: Selenium, Puppeteer
-- **AI**: OpenAI API (or any other Generative AI model)
+- **AI**: OpenAI API
 
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the repository
